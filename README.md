@@ -1,2 +1,2 @@
-# Proyecto-3---Simulaci-n-de-M-quina-de-Galton
+# Proyecto-3---Simulacion-de-Maquina-de-Galton
 
